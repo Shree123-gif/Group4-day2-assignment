@@ -142,7 +142,7 @@ The dataset is not distributed with this repository, so the notebook cannot run 
 
 ## AI Use Disclosure
 
-AI tools were used to support aspects of coding, debugging, explanation, and documentation. The project implementation, experiments, and results should be reviewed and verified by the authors.
+AI tools were used to support aspects of coding, debugging, explanation, and documentation. 
 
 ## Authors
 
