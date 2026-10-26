@@ -21,9 +21,8 @@ env/
 !.env.example
 
 # Raw and processed datasets
-
-data/*
-!data/README.md
+# data/*
+# !data/README.md
 
 # Trained model binaries
 
